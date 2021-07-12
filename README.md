@@ -4,7 +4,8 @@
 
        Notes taken from 201 class 👨‍🎓
  
- ## HTML `HyperText Markup Language` 
+ ## HTML 
+ `HyperText Markup Language` 
    
    
    **HTML Uses Elements To Describe The Structure Of Pages**: 
