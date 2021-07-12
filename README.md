@@ -2,7 +2,8 @@
 
 
 
-                   Notes taken from 201 class 👨‍🎓
+       Notes taken from 201 class 👨‍🎓
+ 
  ## HTML `HyperText Markup Language` 
    
    
