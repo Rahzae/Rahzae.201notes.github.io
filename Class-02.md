@@ -16,4 +16,23 @@ Selector
             Declaration
 ```
 
-##
+## Basic Javascript
+
+Before you can use a variable, you need to announce that you want to use it.
+```
+Keyword
+  VAR     =    PIZZA
+            Variable Name
+```
+
+## Decisions
+```
+   Condition
+if (points > 40) {
+  console.log('You passed!');
+  } else {
+  console.log('Try again...');
+  }
+```
+     
+  
