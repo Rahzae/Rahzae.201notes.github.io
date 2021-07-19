@@ -19,3 +19,6 @@ Document object model specifies how browsers should create a model of an html pa
 ```
 
 ```
+
+*John Duckett Object Literals” (pp.100-105)
+“Document Object Model” (pp.183-242)*
