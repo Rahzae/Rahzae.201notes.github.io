@@ -13,3 +13,7 @@
 * Class 04 Notes [GitHub Pages](https://github.com/Rahzae/Rahzae.201notes.github.io/blob/856d7796a7c84bb8b2f4a93d4af0adba5158ec29/Class04.md)
 
 * Class 06 Notes [GitHub Pages](https://github.com/Rahzae/Rahzae.201notes.github.io/blob/1ac0771516eb051b3cb5a04dd3254bdacf34ca7e/Class06.md)
+
+* Class 07 Notes [GitHub Pages](https://github.com/Rahzae/Rahzae.201notes.github.io/blob/40a375e6d171dcb11341e25ed9ef14d579ac494b/Code07.md)
+
+* Class 08 Notes [GitHub Pages](https://github.com/Rahzae/Rahzae.201notes.github.io/blob/40a375e6d171dcb11341e25ed9ef14d579ac494b/Class08.md)
