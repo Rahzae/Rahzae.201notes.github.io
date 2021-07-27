@@ -21,3 +21,5 @@
 * Class 09 Notes [GitHub Pages](https://github.com/Rahzae/Rahzae.201notes.github.io/blob/21b0cf5cbea0285f9a6aaa9d9f33c510cebf91c2/Class09.md)
 
 * Class 10 Notes [GitHub Pages](https://github.com/Rahzae/Rahzae.201notes.github.io/blob/8a26ed20d93830e1de5a844d9ddd7990f23b8581/Class10.md)
+
+* Class 11 Notes [GitHub Pages](https://github.com/Rahzae/Rahzae.201notes.github.io/blob/82ec85152fc63467bfd3b0ff9df05084a3fdb2a9/Class12.md)
