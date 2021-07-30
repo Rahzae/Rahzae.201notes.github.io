@@ -29,3 +29,5 @@
 * Class 13 Notes [GitHub Pages](https://github.com/Rahzae/Rahzae.201notes.github.io/blob/3a0ad0761a5d4f069d049c0739069226c3a7ab42/Class14.md)
 
 * Class 14 Notes [GitHub Pages](https://github.com/Rahzae/Rahzae.201notes.github.io/blob/6585600e86f2de6a5e9bc5e6fe8edd1b8f502bc6/Class15.md)
+
+* Google Article [GitHub Pages](https://github.com/Rahzae/Rahzae.201notes.github.io/blob/c14a7c569abe736a5dca07e7bdd46037162a95fc/GoogleArticle.md)
